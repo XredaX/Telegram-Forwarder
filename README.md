@@ -20,8 +20,8 @@
 <th align="center">⚙️ Channel Controls</th>
 </tr>
 <tr>
-<td align="center"><img src="screenshots/main-menu.png" alt="Main Menu" width="300"/></td>
-<td align="center"><img src="screenshots/channel-settings.png" alt="Channel Settings" width="300"/></td>
+<td align="center"><img src="main-menu.png" alt="Main Menu" width="300"/></td>
+<td align="center"><img src="channel-settings.png" alt="Channel Settings" width="300"/></td>
 </tr>
 <tr>
 <td align="center"><strong>Your Command Center</strong><br/>Manage everything from one simple interface. Connect accounts, link unlimited channels, and customize settings with one tap.</td>
