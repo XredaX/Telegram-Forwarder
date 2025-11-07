@@ -1,5 +1,11 @@
 # 🚀 Message Forwarder - Smart Telegram Channel Automation
 
+<div align="center">
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXredaX%2FTelegram-Forwarder&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FXredaX%2FTelegram-Forwarder)
+
+</div>
+
 ### Automate your channels with AI-powered forwarding • Zero effort • Zero coding
 
 **🎁 100% FREE - All Features Included**
